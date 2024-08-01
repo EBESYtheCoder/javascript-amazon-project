@@ -1,4 +1,5 @@
 export let cart;
+
 loadFromStrorage();
 
 export function loadFromStrorage() {
